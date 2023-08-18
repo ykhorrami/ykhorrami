@@ -1,5 +1,5 @@
 ![image](https://github.com/ykhorrami/ykhorrami/assets/45908606/b15a97ef-aff7-46d4-a21b-b59aff7f6df8)
-
+Computational Photonics+AI & Data Science & Big Data Researcher
 - 👋 Hi, I’m @ykhorrami
 - 👀 I’m interested in scientific programming
 - 🌱 I’m currently learning Computational Photonics
